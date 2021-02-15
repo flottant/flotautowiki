@@ -118,7 +118,7 @@ jsonContent:
     - 404.html
 
 ## Themes: https://hexo.io/themes/
-theme: wikitten
+theme: wiki
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
